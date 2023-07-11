@@ -41,6 +41,7 @@ font-size: 20px;
 font-style: normal;
 font-weight: 700;
 line-height: normal;
+margin-top: 12px;
 }
 .banner-image{
     width: 635px;
@@ -99,14 +100,51 @@ line-height: 35px;
 text-decoration-line: underline;
 }
 .our-service{
-    padding: 85px 175px 85px 175px;
+    padding: 85px 190px 85px 175px;
     background-color:rgba(39, 39, 39, 0.05) ;
     border-radius: 8px;
     display: flex;
     justify-content: space-between;
     text-align: center;
-    margin: 0px 240px 128px 240px;
-    gap: 40px;
+    margin: 0px 240px 60px 240px;
+    gap: 20px;
 }
-
-
+.our-service-text{
+    color: rgba(39, 39, 39, 0.80);
+text-align: center;
+font-family: Lato;
+font-size: 15px;
+font-style: normal;
+font-weight: 600;
+line-height: 35px;
+}
+.deal{
+    background-color: rgba(229, 84, 115, 0.05);
+    display: flex;
+    justify-content: space-around;
+   text-align: center;
+}
+.deal-text{
+    margin:195px 50px 200px 100px;
+    text-align: center;
+}
+.deal-heading{
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.deal-description{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+span{
+    color: #E55473;
+}
