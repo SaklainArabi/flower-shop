@@ -98,4 +98,15 @@ font-weight: 700;
 line-height: 35px;
 text-decoration-line: underline;
 }
+.our-service{
+    padding: 85px 175px 85px 175px;
+    background-color:rgba(39, 39, 39, 0.05) ;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin: 0px 240px 128px 240px;
+    gap: 40px;
+}
+
 
